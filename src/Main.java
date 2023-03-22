@@ -20,6 +20,6 @@ public class Main {
 //        boolean isTrue = true; // boolean yalniz iki data saxliyir ya true ya false.
 //        String name = "Ulvi"; // ozunde char[] massivi saxlayan bir object.
          long x = 5; // long ile int arasindaki ferq onlarin size dir yeni memory slotda tutqu yerdir. long boyuk int kicik
-        int y = (int) x; // manual castinge explicit casting deyilir. bu ona goredirki data itkisi sadece programistin uzerine dususun.
+         int y = (int) x; // manual castinge explicit casting deyilir. bu ona goredirki data itkisi sadece programistin uzerine dususun.
     }
 }
